@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Jack Linton's Dev Portfolio
 
-You can use the [editor on GitHub](https://github.com/jacklinton/jacklinton.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a former horticulturist and farmer who has grown high quality food using modern, large-scale hydroponic greenhouse systems, smaller organic field growing operations, and I was even the CEO and founder of my own indoor urban mushroom farm in an old warehouse facility in Philadelphia. I am a graduate of the New York Code and Design Academy and I am starting a new career as a full stack app developer. One day I would like to combine my love of growing high quality food with my love of making reliable and enjoyable technological applications to enhance people's personal, career, and educational lives.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Below you will find short descriptions and links to some of the projects I am working on. Thankyou for visiting my site and I hope that you will take some time to test and enjoy my work. I would love to hear from you about what you think, and you can find my contact information at the bottom of the page.
 
 ### Markdown
 

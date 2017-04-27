@@ -1,0 +1,157 @@
+.myname {
+	font-family: 'Orbitron', sans-serif;
+	text-align: center;
+	font-size: 3em;
+	color: #DBDBDB;
+	padding: 10px;
+}
+
+.mediaLinks {
+	display: inline-block;
+	font-size: 50px !important;
+	color: purple;
+	padding: 20px;
+}
+
+.centering {
+	text-align: center;
+}
+
+
+.mainBody {
+	animation-name: pageFade;
+	animation-duration: 2.5s;
+	position: relative;
+	height: 800px;
+	text-align: center;
+	color: white;
+}
+
+@keyframes pageFade{
+	from{
+		top: 200px;
+		opacity: 0;
+	}
+	to{
+		top: 0px;
+		opacity: 1;
+	}
+
+}
+
+.picMotion {
+	animation-name: pictureSlide;
+	animation-duration: 2.5s;
+	position: relative;
+}
+
+@keyframes pictureSlide {
+	from{
+		left: 200px;
+	}
+	to{
+		left: 0px;
+	}
+}
+
+.picFlash {
+	animation-name: picFlash;
+	animation-duration: 2.5s;
+	
+}
+
+@keyframes picFlash {
+	from{
+		opacity: 0;
+	}
+	to{
+		opacity: 1;
+	}
+	
+}
+
+body {
+	background-color: black;
+	animation-name: navDrop;
+	animation-duration: 2.5s;
+	animation-delay: 0s;
+}
+
+@keyframes navDrop {
+	from{
+		opacity: 0;
+	}
+	to{
+		opacity: 1;
+	}
+
+}
+
+.navColor {
+	background-color: #DBDBDB;
+}
+
+.navTextColor {
+	color: royalblue !important;
+	font-family: 'Orbitron', sans-serif;
+}
+
+.stealie {
+	display: inline-block;
+	width: 400px;
+	height: 600px;
+	opacity: 0.35;
+	animation-name: stealie;
+	animation-duration: 2.5s;
+
+}
+
+@keyframes stealie {
+	from{
+		right: 400px;
+		opacity: 0.15;
+	}
+	to{
+		right: 0px;
+				opacity:0.35;
+	}
+}
+
+.sigilum {
+	top: 50px;
+	right: 0px;
+	width: 400px;
+	height: 400px;
+	opacity: 0.30;
+	animation-name: sigilum;
+	animation-duration: 2.5s;
+}
+.spin {
+	-webkit-animation: spin 2.5s linear;
+}
+
+
+@-webkit-keyframes spin {
+    0%  {-webkit-transform: rotate(0deg);}
+    100% {-webkit-transform: rotate(359deg);}   
+}
+
+@keyframes sigilum {
+	from{
+		left: 400px;
+		opacity: 0.15;
+	}
+	to{
+		left: 0px;
+		opacity:0.30;
+	}
+}
+
+.projects {
+	margin: 20px;
+	display: inline-block;
+	clear: all;
+	width: 90%;
+	position: relative;
+	color: white;
+}

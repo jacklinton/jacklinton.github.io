@@ -24,7 +24,7 @@
 	position: relative;
 	height: 800px;
 	text-align: center;
-	color: white;
+	color: darkgrey;
 }
 
 @keyframes pageFade{
@@ -153,5 +153,5 @@ body {
 	clear: all;
 	width: 90%;
 	position: relative;
-	color: white;
+	color: darkgrey;
 }

@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b79386c8-81e3-414f-9e46-3b921a1c9bfa" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Assets/Pics/Locknshot1.jpg" afterPath="$PROJECT_DIR$/Assets/Pics/locknshot1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Assets/Pics/LuWedding.jpg" afterPath="$PROJECT_DIR$/Assets/Pics/luwedding.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manifesto.html" afterPath="$PROJECT_DIR$/manifesto.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -52,8 +51,8 @@
       <file leaf-file-name="manifesto.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/manifesto.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="52" column="57" lean-forward="false" selection-start-line="52" selection-start-column="57" selection-end-line="52" selection-end-column="57" />
+            <state relative-caret-position="249">
+              <caret line="40" column="65" lean-forward="false" selection-start-line="40" selection-start-column="65" selection-end-line="40" selection-end-column="65" />
               <folding />
             </state>
           </provider>
@@ -275,12 +274,12 @@
       <option name="presentableId" value="Default" />
       <updated>1494960396452</updated>
       <workItem from="1494960399101" duration="4326000" />
-      <workItem from="1497048984927" duration="196000" />
+      <workItem from="1497048984927" duration="290000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4522000" />
+    <option name="totallyTimeSpent" value="4616000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -357,8 +356,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/manifesto.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="52" column="57" lean-forward="false" selection-start-line="52" selection-start-column="57" selection-end-line="52" selection-end-column="57" />
+        <state relative-caret-position="249">
+          <caret line="40" column="65" lean-forward="false" selection-start-line="40" selection-start-column="65" selection-end-line="40" selection-end-column="65" />
           <folding />
         </state>
       </provider>
